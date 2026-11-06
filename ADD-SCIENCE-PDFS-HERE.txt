@@ -1,0 +1,1 @@
+Upload your public science PDFs into this folder. Add each file to the resources array in ../../script.js.
